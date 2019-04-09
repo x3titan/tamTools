@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backup2", "backup2\backup2.csproj", "{AD6AF888-7A7E-4B1F-9393-CD3F4E4DB94C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoResize", "PhotoResize\PhotoResize.csproj", "{98916100-4F76-4C71-8C8D-D30F15C0817F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{AD6AF888-7A7E-4B1F-9393-CD3F4E4DB94C}.Debug|x86.Build.0 = Debug|x86
 		{AD6AF888-7A7E-4B1F-9393-CD3F4E4DB94C}.Release|x86.ActiveCfg = Release|x86
 		{AD6AF888-7A7E-4B1F-9393-CD3F4E4DB94C}.Release|x86.Build.0 = Release|x86
+		{98916100-4F76-4C71-8C8D-D30F15C0817F}.Debug|x86.ActiveCfg = Debug|x86
+		{98916100-4F76-4C71-8C8D-D30F15C0817F}.Debug|x86.Build.0 = Debug|x86
+		{98916100-4F76-4C71-8C8D-D30F15C0817F}.Release|x86.ActiveCfg = Release|x86
+		{98916100-4F76-4C71-8C8D-D30F15C0817F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
